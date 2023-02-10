@@ -1,0 +1,21 @@
+{
+  "name": "archivos-para-la-practica-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camii2108/Practica-MVC---clase51.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camii2108/Practica-MVC---clase51/issues"
+  },
+  "homepage": "https://github.com/camii2108/Practica-MVC---clase51#readme"
+}
